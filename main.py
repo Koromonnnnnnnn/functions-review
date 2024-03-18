@@ -1,6 +1,6 @@
 def calculate_distance(speed, time):
     distance = speed * time
-    print(distance)
+    print(distance, "km/h")
     return distance
 
 
